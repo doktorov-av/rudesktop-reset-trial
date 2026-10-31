@@ -1,6 +1,7 @@
 # rudesktop-reset-trial
 Widnows .bat script file that resets rudesktop (remote PC control) trial licence
 
+```bat
 @echo off
 setlocal EnableExtensions
 title RuDesktop ID Reset
@@ -142,3 +143,4 @@ if errorlevel 1 (
 echo        %VIEW%-bit view: deleted
 echo        backup: %REGBAK%
 goto :eof
+```
