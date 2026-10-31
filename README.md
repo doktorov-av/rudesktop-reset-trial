@@ -1,4 +1,4 @@
-# rudesktop-reset-trial
+# Reset rudesktop trial
 Widnows .bat script file that resets rudesktop (remote PC control) trial licence
 
 ```bat
